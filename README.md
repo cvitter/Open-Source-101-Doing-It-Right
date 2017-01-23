@@ -5,9 +5,13 @@ This repository contains the material for my presentation at Open Source 101 (ht
 * An outline of the presentation;
 * The original artwork for the slides;
 * A copy of the final slide deck presented at the conference;
-* A Link to the Google Slides version of the presentation.
+* And a Link to the Google Slides version of the presentation.
 
+I have opened sourced the contents of the presentation (see [License](#license) below for more information) to help foster a dialog about what kinds of things developers can do to create open source projects that are more than simple public dumping grounds for code. 
 
+If you are interested in giving a talk based on my presentation I would urge you to make a fork of this repository and customize the slide deck to fit your thoughts on the subject (as well as your speaking style). I would also love to hear about the work you are doing and would be glad to add a pointer to it right here.
+
+If you have thoughts or feedback on my presentation you share them here: [Issues](https://github.com/cvitter/Open-Source-101-Doing-It-Right/issues).
 
 # Talk Abstract:
 
