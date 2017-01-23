@@ -1,6 +1,13 @@
 # Open Source 101: Create your first open source project the “right way”
 
-This repository contains the material for my presentation at Open Source 101 (http://opensource101.com/) titled: Create your first open source project the “right way.”
+This repository contains the material for my presentation at Open Source 101 (http://opensource101.com/) titled: Create your first open source project the “right way” including:
+
+* An outline of the presentation;
+* The original artwork for the slides;
+* A copy of the final slide deck presented at the conference;
+* A Link to the Google Slides version of the presentation.
+
+
 
 # Talk Abstract:
 
