@@ -23,7 +23,9 @@ In addition to this README this repository contains the materials I used to prep
 
 **Outline**
 
-Coming soon...
+A rough outline of the presentation slide by slide can be found here: [outline.md](outline.md).
+
+**Note**: The outline isn't a script as I have never been particularly good a following scripts.
 
 **Slides**
 
