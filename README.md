@@ -38,7 +38,7 @@ The original slides were created using SketchBook Pro (http://www.autodesk.com/p
 The original Google Slides presentation can be found at the following link:
 https://docs.google.com/presentation/d/14VirbGNmkyV-jr54O8lY0iVIXqzbEKVa9hjYqY-bsFk/edit?usp=sharing
 
-The final presentation given at Open Source 101 in Raleigh, NC on February, 4th 2017 will be available in PDF format here: Open Source 101 - Doing it the -right way-.pdf
+The final presentation given at Open Source 101 in Raleigh, NC on February, 4th 2017 is available in PDF format in the ```slide-decks``` folder.
 
 # License
 **Create your first open source project the “right way”** is Open Source material released under the Apache 2.0 License. Please see the [LICENSE](LICENSE) file for full license details.
