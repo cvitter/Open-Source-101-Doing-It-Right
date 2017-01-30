@@ -46,16 +46,37 @@
 
 ## Slide 7 - Sad Face
 
+* Or that others will follow the golden rule.
+
+* If you have tried using other people's open source projects you might have felt like this.
+
+* I have spent a lot of time metaphorically weeping while searching through open source projects to find something useful.
+
 * 
 
 ## Slide 8 - Todo List
 
+* 
 
 ## Slide 9 - choosealicense.com
 
+* If you are going to open source your project one of the first things that you will want to do is a pick a license under which to open source it.
+
+* I tend to stick with the Apache 2.0 license because that's what I have the most experience with.
+
+* That said I am not an expert on which license you should should choose so I highly recommend that you do some research.
+
+* One great resource that makes it really simple to pick a license is choosealicense.com. If you aren't already familiar with it I highly recommend taking a look.
 
 ## Slide 10 - Github
 
+* Let's be honest there are only a few places where you would choose to host your open source project and Github is the 900 pound Gorilla in the room.
+
+* If you really want to look at alternatives like Bitbucket,  Microsoft's Codeplex, Slashdot Media's SourceForge (which itself used to be the 900 pound Gorilla). 
+
+* I should note however that even Microsoft hosts its important open source projects on Gitbhub...
+
+* 
 
 ## Slide 11 - Documentation
 
