@@ -78,32 +78,59 @@
 
 * Let's be honest there are only a few places where you would choose to host your open source project and Github is the 900 pound Gorilla in the room.
 
-* If you really want to look at alternatives like Bitbucket,  Microsoft's Codeplex, Slashdot Media's SourceForge (which itself used to be the 900 pound Gorilla). 
+* If you really want to look at alternatives there are options out there like Bitbucket,  Microsoft's Codeplex, and Slashdot Media's SourceForge (which itself used to be the 900 pound Gorilla). 
 
 * I should note however that even Microsoft hosts its important open source projects on Gitbhub...
 
-* The thing to remember about where to host your open source project is that it isn't just a place to dump your code where other people can access it. Whatever host you pick should have at least have features like support for your favorite source code control tool (git), a place to capture issues (more on that later), wikis and documentation (which we are going to talk about next).
+* The thing to remember about where to host your open source project is that it isn't just a place to dump your code so that other people can access it. Whatever host you pick should at least have features like support for your favorite source code control tool (git), a place to capture issues (more on that later), wikis and documentation (which we are going to talk about next).
 
 ## Slide 11 - Documentation
 
 * One of my biggest pet peeves with a large number of open source projects is no, or lousy, documentation.
 
-* 
+* You've probably heard, or even said, something like "this code is self documenting."
+
+* Whether or not your code is self documenting, making people read through your code to figure out if it might be useful to them isn't the way to get people to use it.
+
+* Which isn't to say that you need to write a novel.
 
 ## Slide 12 - What Is It?
 
+* In fact, if you can answer the question the questions "what is it?" and "how do you use it?" you are off to a great start.
+
+* "What is it" seems pretty obvious right? 
+
+* Need an example? Here is the one sentence introduction for one of my open source projects:
+
+	"A basic JDBC driver for Basho's open source Riak TS (Time Series) database"
+
+* Hopefully you will agree that the description is succinct and clear and leaves little to the imagination.
+
+* "How do you use it" might require a little more effort but is also quite important.
+
+* Depending on the type of project you will want to provide your end users with some minimal level instruction on its usage including:
+
+	* How to build the project or where to get pre-compiled binaries 
+
+	* Clear, simple code examples showing how to use your project
+
+* 
 
 ## Slide 13 - Issues
 
+*
 
 ## Slide 14 - Bugs
 
+*
 
 ## Slide 15 - Enhancements or Ideas
 
+*
 
 ## Slide 16 - Tests
 
+*
 
 ## Slide 17 - Releases
 
