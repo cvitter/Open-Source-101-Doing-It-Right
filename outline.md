@@ -76,10 +76,13 @@
 
 * I should note however that even Microsoft hosts its important open source projects on Gitbhub...
 
-* 
+* The thing to remember about where to host your open source project is that it isn't just a place to dump your code where other people can access it. Whatever host you pick should have at least have features like support for your favorite source code control tool (git), a place to capture issues (more on that later), wikis and documentation (which we are going to talk about next).
 
 ## Slide 11 - Documentation
 
+* One of my biggest pet peeves with a large number of open source projects is no, or lousy, documentation.
+
+* 
 
 ## Slide 12 - What Is It?
 
