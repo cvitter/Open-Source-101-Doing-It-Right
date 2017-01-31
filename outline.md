@@ -34,7 +34,7 @@
 
 * There are quite a few reasons WHY you might create an open source project but those are beyond the scope of this talk and some might argue better discussed with the aid of adult beverages.
 
-* What I want to focus on is some of the things that you can do once you have decided to create an open source project to make it something that is beneficial to your intended audience.
+* What I want to focus on is some of the things that you can do once you have decided to create an open source project to make it something other developers might actually want to use.
 
 ## Slide 6 - "The Golden Rule"
 
@@ -52,11 +52,17 @@
 
 * I have spent a lot of time metaphorically weeping while searching through open source projects to find something useful.
 
-* 
+* So how do you avoid bringing other developers to tears?
 
 ## Slide 8 - Todo List
 
-* 
+* I have developed my own personal 8 point to do list that I strive to follow when I create a new project.
+
+* This is by no means a comprehensive list of everything you can or should do to create a successful project, rather I think it sort of the bare minimum of things you can do to get started down the right path.
+
+* So what are the 8 things? Hopefully most them are pretty obvious like: picking the right license, putting your code somewhere people can find it, and documenting your code well.
+
+* Some of the other items might be a little less obvious like: documenting bugs and enhancements, including unit tests in your code, having "official" code releases, and asking for and gratefully taking help.
 
 ## Slide 9 - choosealicense.com
 
