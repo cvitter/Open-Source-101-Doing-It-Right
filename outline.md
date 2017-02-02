@@ -185,9 +185,17 @@
 
 * Ok, so at this point we have code that we have written (with unit tests), released with an open source license, hosted someplace like Github with enough documentation that would allow people to figure out how to use it. What do we do next?
 
-* Release it!
+* We release it!
 
-* Releases
+* And just to be clear, in this instance when I say release what I mean is to take a snapshot of your code (and any binaries, documentation, etc.) at a given point of time, slap a version number on it, and call it a release.
+
+* Even if your project is nothing more than a single script it makes sense to deliver releases.
+
+* Releases, theoretically, give your users stable check points, versions of your code with documented features and bugs (of course). 
+
+* Releases are also a great way to record the history and progress of your project over time so don't forget the release notes!
+
+* One of my favorite software development sayings is "Release early and release often."
 
 
 ## Slide 18 - Ask For Help
